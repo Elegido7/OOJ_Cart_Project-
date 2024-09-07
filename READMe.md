@@ -1,4 +1,4 @@
-you will be recreating the shopping cart created in the superskill, JavaScript and the DOM using OOJ instead of JS.
+The following instructions were followed.
 
 Instructions
 
